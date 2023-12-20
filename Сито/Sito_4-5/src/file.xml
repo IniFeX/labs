@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<animals>
+    <animal>
+        <name>Murzik</name>
+        <type>Cat</type>
+        <fullOwnerName>Darya Shumova</fullOwnerName>
+        <age>11</age>
+    </animal>
+    <animal>
+        <name>Govorun</name>
+        <type>Parrot</type>
+        <fullOwnerName>Darya Shumova</fullOwnerName>
+        <age>5</age>
+    </animal>
+    <animal>
+        <name>Druzhok</name>
+        <type>Dog</type>
+        <fullOwnerName>Ivan Bronin</fullOwnerName>
+        <age>11</age>
+    </animal>
+    <animal>
+        <name>Leo</name>
+        <type>Chameleon</type>
+        <fullOwnerName>Andrey Usov</fullOwnerName>
+        <age>2</age>
+    </animal>
+    <animal>
+        <name>Chernysh</name>
+        <type>Cat</type>
+        <fullOwnerName>Darya Shumova</fullOwnerName>
+        <age>3</age>
+    </animal>
+    <animal>
+        <name>Puaro</name>
+        <type>Cat</type>
+        <fullOwnerName>Nikita Labuda</fullOwnerName>
+        <age>14</age>
+    </animal>
+    <animal>
+        <name>Linda</name>
+        <type>Capybara</type>
+        <fullOwnerName>Vadim Solncev</fullOwnerName>
+        <age>5</age>
+    </animal>
+    <animal>
+        <name>Tomas</name>
+        <type>Capybara</type>
+        <fullOwnerName>Vadim Solncev</fullOwnerName>
+        <age>4</age>
+    </animal>
+    <animal>
+        <name>Barsik</name>
+        <type>Cat</type>
+        <fullOwnerName>Maria Ivanova</fullOwnerName>
+        <age>20</age>
+    </animal>
+</animals>

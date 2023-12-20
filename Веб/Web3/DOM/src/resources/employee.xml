@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+        
+    <Employee id="1">
+                
+        <name>name1</name>
+                
+        <gender>male</gender>
+                
+        <age>123</age>
+                
+        <role>Role1</role>
+            
+    </Employee>
+    
+    <Employee id="2">
+        <name>Name2</name>
+        <gender>male</gender>
+        <age>123</age>
+        <role>Role2</role>
+    </Employee>
+</Employees>
